@@ -4,7 +4,6 @@
       "war": [
          {
             "file": "target/ROOT.war",
-            "context": "/home",
             "checkMe": "/home"
          }
       ]
