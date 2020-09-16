@@ -3,7 +3,7 @@
       "container": "TOMCAT8",
       "war": [
          {
-            "file": "target/recipebookserver-0.0.1-SNAPSHOT.war",
+            "file": "../target/recipebookserver-0.0.1-SNAPSHOT.war",
             "context": "/app1",
             "checkMe": "/app1/ping"
          }
