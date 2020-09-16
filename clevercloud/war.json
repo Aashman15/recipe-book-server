@@ -3,8 +3,7 @@
       "container": "TOMCAT8",
       "war": [
          {
-            "file": "target/ROOT.war",
-            "checkMe": "/home"
+            "file": "target/ROOT.war"
          }
       ]
    }
