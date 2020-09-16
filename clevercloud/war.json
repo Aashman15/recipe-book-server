@@ -1,6 +1,12 @@
 {
-   "build": {
-      "type": "maven",
-      "goal": "package"
+   "deploy": {
+      "container": "TOMCAT8",
+      "war": [
+         {
+            "file": "target/ROOT.war",
+            "context": "/",
+            "checkMe": "/home"
+         }
+      ]
    }
 }
