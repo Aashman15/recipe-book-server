@@ -4,8 +4,8 @@
       "war": [
          {
             "file": "target/recipebookserver-0.0.1-SNAPSHOT.war",
-            "context": "/app1",
-            "checkMe": "/app1/ping"
+            "context": "/",
+            "checkMe": "/"
          }
       ]
    }
