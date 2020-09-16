@@ -1,6 +1,0 @@
-com\recipebook\model\Recipe.class
-com\recipebook\RecipebookserverApplication.class
-com\recipebook\repository\RecipeRepository.class
-com\recipebook\repository\IngredientRepository.class
-com\recipebook\model\Ingredient.class
-com\recipebook\controller\RecipeRestController.class
