@@ -9,7 +9,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e967a722-1837-4750-89e5-6fb3ce096efa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/clevercloud/war.json" beforeDir="false" afterPath="$PROJECT_DIR$/clevercloud/war.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ROOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/recipebookserver-0.0.1-SNAPSHOT.war.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/recipebookserver-0.0.1-SNAPSHOT.war.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.recipebook.RecipebookserverApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.recipebook.RecipebookserverApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.recipebook.RecipebookserverApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.recipebook.RecipebookserverApplicationTests.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +44,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -53,17 +58,6 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RecipebookserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="recipe-book-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.recipebook.RecipebookserverApplication" />
@@ -82,7 +76,8 @@
       <updated>1600138876132</updated>
       <workItem from="1600138877879" duration="24000" />
       <workItem from="1600231480050" duration="939000" />
-      <workItem from="1600236307317" duration="3645000" />
+      <workItem from="1600236307317" duration="4269000" />
+      <workItem from="1600307745057" duration="67000" />
     </task>
     <servers />
   </component>
@@ -99,28 +94,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1600238361863">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1600238361863" />
-    <state width="1237" height="491" key="GridCell.Tab.0.bottom" timestamp="1600239964156">
+    <state width="1237" height="491" key="GridCell.Tab.0.bottom" timestamp="1600307806751">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="491" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600239964156" />
-    <state width="1237" height="491" key="GridCell.Tab.0.center" timestamp="1600239964156">
+    <state width="1237" height="491" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600307806751" />
+    <state width="1237" height="491" key="GridCell.Tab.0.center" timestamp="1600307806750">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="491" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600239964156" />
-    <state width="1237" height="491" key="GridCell.Tab.0.left" timestamp="1600239964156">
+    <state width="1237" height="491" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600307806750" />
+    <state width="1237" height="491" key="GridCell.Tab.0.left" timestamp="1600307806750">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="491" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600239964156" />
-    <state width="1237" height="491" key="GridCell.Tab.0.right" timestamp="1600239964156">
+    <state width="1237" height="491" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600307806750" />
+    <state width="1237" height="491" key="GridCell.Tab.0.right" timestamp="1600307806750">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="491" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600239964156" />
+    <state width="1237" height="491" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600307806750" />
     <state width="1237" height="491" key="GridCell.Tab.1.bottom" timestamp="1600238873243">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
